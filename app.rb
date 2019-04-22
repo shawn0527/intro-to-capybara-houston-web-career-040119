@@ -1,5 +1,3 @@
-# require_relative './views'
-
 class Application < Sinatra::Base
   # Write your code here!
   set :views, './views'
